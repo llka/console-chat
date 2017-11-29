@@ -1,0 +1,25 @@
+2017-11-03 18:08:22 INFO  Client:47 - start
+2017-11-03 18:19:48 ERROR Client:171 - Server has close the connection: java.net.SocketException: Connection reset
+2017-11-03 18:32:35 INFO  Client:47 - start
+2017-11-03 18:33:11 INFO  Client:47 - start
+2017-11-03 18:33:57 ERROR Client:171 - Server has close the connection: java.net.SocketException: Socket closed
+2017-11-03 18:35:12 ERROR Client:171 - Server has close the connection: java.net.SocketException: Connection reset
+2017-11-04 16:52:25 ERROR ServerMessagesListener:32 - Server has close the connection: java.net.SocketException: Socket closed
+2017-11-08 14:28:13 INFO  ServerMessagesListener:33 - Server has closed the connection: java.net.SocketException: Socket closed
+2017-11-08 14:29:04 INFO  ServerMessagesListener:33 - Server has closed the connection: java.net.SocketException: Socket closed
+2017-11-08 14:49:07 INFO  ServerMessagesListener:33 - Server has closed the connection: java.net.SocketException: Connection reset
+2017-11-08 14:59:20 INFO  ServerMessagesListener:33 - Server has closed the connection: java.net.SocketException: Connection reset
+2017-11-08 14:59:20 INFO  ServerMessagesListener:33 - Server has closed the connection: java.net.SocketException: Connection reset
+2017-11-09 15:00:15 INFO  ServerMessagesListener:33 - Server has closed the connection: java.net.SocketException: Socket closed
+2017-11-09 15:01:17 INFO  ServerMessagesListener:33 - Server has closed the connection: java.net.SocketException: Socket closed
+2017-11-09 15:01:23 INFO  ServerMessagesListener:33 - Server has closed the connection: java.net.SocketException: socket closed
+2017-11-10 10:26:14 INFO  ServerMessagesListener:33 - Server has closed the connection: java.net.SocketException: Socket closed
+2017-11-10 10:29:39 INFO  ServerMessagesListener:33 - You are disconnected now. Connection reset
+2017-11-10 10:31:31 INFO  ServerMessagesListener:33 - You are disconnected now. Socket closed
+2017-11-10 10:31:44 INFO  ServerMessagesListener:33 - You are disconnected now. Socket closed
+2017-11-10 10:37:58 INFO  ServerMessagesListener:33 - You are disconnected now. Socket closed
+2017-11-10 10:38:05 INFO  ServerMessagesListener:33 - You are disconnected now. Socket closed
+2017-11-10 10:39:07 INFO  ServerMessagesListener:33 - You are disconnected now. Socket closed
+2017-11-10 10:39:28 INFO  ServerMessagesListener:33 - You are disconnected now. Socket closed
+2017-11-13 15:46:10 INFO  ServerMessagesListener:33 - You are disconnected now. Connection reset
+2017-11-13 15:46:10 INFO  ServerMessagesListener:33 - You are disconnected now. Connection reset

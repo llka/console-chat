@@ -1,0 +1,92 @@
+2017-11-04 15:03:53 ERROR Server:186 - Error while reading messagejava.net.SocketException: Connection reset
+2017-11-04 15:03:53 ERROR Server:186 - Error while reading messagejava.net.SocketException: Connection reset
+2017-11-08 14:28:13 ERROR Server:202 - Can not disconnect ru.ilka.chat.exception.ClientException: Error while closing socketOutputjava.net.SocketException: Socket closed
+2017-11-08 14:29:04 ERROR Server:202 - Can not disconnect ru.ilka.chat.exception.ClientException: Error while closing socketOutputjava.net.SocketException: Socket closed
+2017-11-08 15:03:32 ERROR Server:181 - Error while reading message java.net.SocketException: Connection reset
+2017-11-08 15:03:32 ERROR Server:181 - Error while reading message java.net.SocketException: Connection reset
+2017-11-09 15:00:15 ERROR Server:230 - Can not disconnect. ru.ilka.chat.exception.ClientException: Error while closing socketOutputjava.net.SocketException: Socket closed
+2017-11-09 15:01:17 ERROR Server:230 - Can not disconnect. ru.ilka.chat.exception.ClientException: Error while closing socketOutputjava.net.SocketException: Socket closed
+2017-11-10 10:21:37 ERROR Server:182 - Error while reading message java.net.SocketException: Connection reset
+2017-11-10 10:21:37 ERROR Server:182 - Error while reading message java.net.SocketException: Connection reset
+2017-11-10 10:24:03 DEBUG Server:133 - client.getName() Thread-0
+2017-11-10 10:24:03 DEBUG Server:134 -  senderName Ilya
+2017-11-10 10:24:03 DEBUG Server:135 - equals false
+2017-11-10 10:24:03 DEBUG Server:136 - 
+2017-11-10 10:24:03 DEBUG Server:133 - client.getName() Thread-1
+2017-11-10 10:24:03 DEBUG Server:134 -  senderName Ilya
+2017-11-10 10:24:03 DEBUG Server:135 - equals false
+2017-11-10 10:24:03 DEBUG Server:136 - 
+2017-11-10 10:26:14 DEBUG Server:133 - client.getName() Thread-0
+2017-11-10 10:26:14 DEBUG Server:134 -  senderName Ilya
+2017-11-10 10:26:14 DEBUG Server:135 - equals false
+2017-11-10 10:26:14 DEBUG Server:136 - 
+2017-11-10 10:26:14 DEBUG Server:133 - client.getName() Thread-1
+2017-11-10 10:26:14 DEBUG Server:134 -  senderName Ilya
+2017-11-10 10:26:14 DEBUG Server:135 - equals false
+2017-11-10 10:26:14 DEBUG Server:136 - 
+2017-11-10 10:26:14 ERROR Server:235 - Can not disconnect. ru.ilka.chat.exception.ClientException: Error while closing socketOutputjava.net.SocketException: Socket closed
+2017-11-10 10:28:12 ERROR Server:186 - Error while reading message java.net.SocketException: Connection reset
+2017-11-10 10:29:09 DEBUG Server:133 - client.getName() Ilya
+2017-11-10 10:29:09 DEBUG Server:134 -  senderName Ilya
+2017-11-10 10:29:09 DEBUG Server:135 - equals true
+2017-11-10 10:29:09 DEBUG Server:136 - 
+2017-11-10 10:29:59 DEBUG Server:133 - client.getName() Ilya
+2017-11-10 10:29:59 DEBUG Server:134 -  senderName Ilya
+2017-11-10 10:29:59 DEBUG Server:135 - equals true
+2017-11-10 10:29:59 DEBUG Server:136 - 
+2017-11-10 10:30:19 DEBUG Server:133 - client.getName() Ilya
+2017-11-10 10:30:19 DEBUG Server:134 -  senderName God
+2017-11-10 10:30:19 DEBUG Server:135 - equals false
+2017-11-10 10:30:19 DEBUG Server:136 - 
+2017-11-10 10:30:19 DEBUG Server:133 - client.getName() God
+2017-11-10 10:30:19 DEBUG Server:134 -  senderName God
+2017-11-10 10:30:19 DEBUG Server:135 - equals true
+2017-11-10 10:30:19 DEBUG Server:136 - 
+2017-11-10 10:31:00 DEBUG Server:133 - client.getName() Ilya
+2017-11-10 10:31:00 DEBUG Server:134 -  senderName Ilya
+2017-11-10 10:31:00 DEBUG Server:135 - equals true
+2017-11-10 10:31:00 DEBUG Server:136 - 
+2017-11-10 10:31:00 DEBUG Server:133 - client.getName() God
+2017-11-10 10:31:00 DEBUG Server:134 -  senderName Ilya
+2017-11-10 10:31:00 DEBUG Server:135 - equals false
+2017-11-10 10:31:00 DEBUG Server:136 - 
+2017-11-10 10:31:31 DEBUG Server:133 - client.getName() Ilya
+2017-11-10 10:31:31 DEBUG Server:134 -  senderName God
+2017-11-10 10:31:31 DEBUG Server:135 - equals false
+2017-11-10 10:31:31 DEBUG Server:136 - 
+2017-11-10 10:31:31 DEBUG Server:133 - client.getName() God
+2017-11-10 10:31:31 DEBUG Server:134 -  senderName God
+2017-11-10 10:31:31 DEBUG Server:135 - equals true
+2017-11-10 10:31:31 DEBUG Server:136 - 
+2017-11-10 10:31:44 DEBUG Server:133 - client.getName() Ilya
+2017-11-10 10:31:44 DEBUG Server:134 -  senderName Ilya
+2017-11-10 10:31:44 DEBUG Server:135 - equals true
+2017-11-10 10:31:44 DEBUG Server:136 - 
+2017-11-10 10:34:49 DEBUG Server:119 - client.getName() Ilya
+2017-11-10 10:34:49 DEBUG Server:120 -  senderName God
+2017-11-10 10:34:49 DEBUG Server:121 - equals false
+2017-11-10 10:34:49 DEBUG Server:122 - 
+2017-11-10 10:34:49 DEBUG Server:119 - client.getName() God
+2017-11-10 10:34:49 DEBUG Server:120 -  senderName God
+2017-11-10 10:34:49 DEBUG Server:121 - equals true
+2017-11-10 10:34:49 DEBUG Server:122 - 
+2017-11-10 10:37:51 DEBUG Server:119 - client.getName() Ilya
+2017-11-10 10:37:51 DEBUG Server:120 -  senderName Ilya
+2017-11-10 10:37:51 DEBUG Server:121 - equals true
+2017-11-10 10:37:51 DEBUG Server:122 - 
+2017-11-10 10:37:51 DEBUG Server:119 - client.getName() God
+2017-11-10 10:37:51 DEBUG Server:120 -  senderName Ilya
+2017-11-10 10:37:51 DEBUG Server:121 - equals false
+2017-11-10 10:37:51 DEBUG Server:122 - 
+2017-11-10 10:37:58 DEBUG Server:119 - client.getName() Ilya
+2017-11-10 10:37:58 DEBUG Server:120 -  senderName God
+2017-11-10 10:37:58 DEBUG Server:121 - equals false
+2017-11-10 10:37:58 DEBUG Server:122 - 
+2017-11-10 10:37:58 DEBUG Server:119 - client.getName() God
+2017-11-10 10:37:58 DEBUG Server:120 -  senderName God
+2017-11-10 10:37:58 DEBUG Server:121 - equals true
+2017-11-10 10:37:58 DEBUG Server:122 - 
+2017-11-10 10:38:05 DEBUG Server:119 - client.getName() Ilya
+2017-11-10 10:38:05 DEBUG Server:120 -  senderName Ilya
+2017-11-10 10:38:05 DEBUG Server:121 - equals true
+2017-11-10 10:38:05 DEBUG Server:122 - 
